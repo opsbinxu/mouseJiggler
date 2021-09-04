@@ -16,5 +16,7 @@
   (lib (name "josh-soic-sot-etc")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/josh-kicad-lib/josh-soic-sot-etc.pretty")(options "")(descr ""))
   (lib (name "josh-test-point")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/josh-kicad-lib/josh-test-point.pretty")(options "")(descr ""))
   (lib (name "bing-amp")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/bing-kicad-lib/bing-amp.pretty")(options "")(descr ""))
-  (lib (name "bing-SOIC")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/bing-kicad-lib/bing-SOIC.pretty")(options "")(descr ""))
+  (lib (name "bing-connector")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/bing-kicad-lib/bing-connector.pretty")(options "")(descr ""))
+  (lib (name "bing-soic")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/bing-kicad-lib/bing-soic.pretty")(options "")(descr ""))
+  (lib (name "bing-crystal")(type "KiCad")(uri "C:/Users/Bing/Documents/GitHub/mouseJiggler/bing-kicad-lib/bing-crystal.pretty")(options "")(descr ""))
 )
