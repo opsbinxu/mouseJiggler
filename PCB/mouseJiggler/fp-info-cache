@@ -1,4 +1,4 @@
-19716681312673594
+19723244116807046
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84272,6 +84272,34 @@ SON-8-1EP_3.15x31.5mm_P0.65mm
 0
 10
 9
+bing-connector
+USB_A_CNCTech_1001-011-01101_Horizontal
+USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
+USB-A
+0
+6
+5
+bing-connector
+USB_A_Molex_67643_Horizontal
+USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
+USB_A Female Connector receptacle
+0
+6
+5
+bing-crystal
+Crystal_SMD_2520-4Pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+bing-soic
+SSOP-16_4.6x2.6mm_P0.53
+
+
+0
+16
+16
 josh-bga
 BGA-24_5x5_6.0x8.0mm
 
